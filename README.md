@@ -1,7 +1,7 @@
 # **BGM CGM Alignment**
 
 **Purpose**
-Analyze how well blood glucose meter (BGM) readings align with continuous glucose monitor (CGM) values using a fixed pairing window and percent-difference bands. # **BGM CGM Range** This program compares fingerstick (BGM) readings with the nearest continuous glucose monitor (CGM) values within a 15-minute window. It calculates the percent difference between the two to assess how closely they align. The results are saved to CSV for visualization in Tableau.
+Analyze how well blood glucose meter (BGM) readings align with continuous glucose monitor (CGM) values using a fixed pairing window and percent-difference bands.
 
 **Key Idea**
 Pair each BGM reading with the closest CGM value within a 15-minute window and compute the percent difference. This notebook prepares the dataset used for the accompanying Tableau visualizations.
