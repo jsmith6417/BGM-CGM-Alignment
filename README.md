@@ -6,10 +6,10 @@ Analyze how well blood glucose meter (BGM) readings align with continuous glucos
 **Key Idea**
 Pair each BGM reading with the closest CGM value within a 15-minute window and compute the percent difference. This notebook prepares the dataset used for the accompanying Tableau visualizations.
 
-**Visualizations**
-Link to interactive dashboards on Tableau Public: https://public.tableau.com/app/profile/jeff.smith4760/viz/BGMCGMRange/BGMCGMAlignment
+## Visualizations  
+Explore the interactive Tableau dashboards here:  
+[Tableau Public – BGM CGM Alignment](https://public.tableau.com/views/BGMCGMRange/BGMCGMAlignment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-## Requirements
-Python 3.10+ and the following packages:
-- numpy
-- pandas
+## Article at JCS Analytics   
+**Aligning CGM and BGM Readings Using Python and Tableau**  
+https://jcsanalytics.com/index.php/articles/aligning-cgm-and-bgm-readings-using-python-and-tableau  
