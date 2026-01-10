@@ -12,4 +12,4 @@ Explore the interactive Tableau dashboards here:
 
 ## Article at JCS Analytics   
 **Aligning CGM and BGM Readings Using Python and Tableau**  
-https://jcsanalytics.com/index.php/articles/aligning-cgm-and-bgm-readings-using-python-and-tableau  
+https://jcsanalytics.com/index.php?view=article&id=52:aligning-cgm-and-bgm-readings-using-python-and-tableau
