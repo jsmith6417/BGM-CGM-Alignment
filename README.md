@@ -11,3 +11,11 @@ Pair each BGM reading with the closest CGM value within a 15-minute window and c
 
 ## Article at JCS Analytics   
 [Aligning CGM and BGM Readings Using Python and Tableau](https://jcsanalytics.com/index.php/articles/automation-and-workflows/aligning-cgm-and-bgm-readings-using-python-and-tableau)
+
+## Python Version Compatibility
+
+This program has been updated and tested using Python 3.15. It incorporates explicit lazy imports (lazy import and lazy from), introduced in Python 3.15.
+
+If you are using Python 3.14 or earlier, remove the lazy keyword from the import statements before running the program.
+
+This restores the standard import behavior used in earlier versions of Python.
